@@ -8,10 +8,18 @@
 +.local
 +.in-addr.arpa
 +.ip6.arpa
-# [补充] 局域网其他常见占位符
-*.localdomain
-*.localhost
-*.home.arpa
+# [补充] 局域网其他常见占位符与 RFC 标准保留域名
++.localdomain
++.localhost
++.home.arpa
++.home
++.private
++.corp
++.internal
++.direct
++.test
++.example
++.invalid
 
 # ---- 基础时间同步 NTP (必须走真实 IP，否则证书验证报废) ----
 time.*.com
