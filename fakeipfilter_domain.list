@@ -41,5 +41,18 @@ swdownload.apple.com
 swcdn.apple.com
 swdist.apple.com
 
+# ---- 国内特殊软件与工具 (向日葵、迅雷、银行等，防 P2P 与验证断联) ----
+# 这些服务产生的是国内日常流量，不仅 DNS 对当地运营商可见属正常行为，
+# 而且必须使用真实 DNS 才能获得正确的同城甚至同小区的 P2P 连接 IP。
++.oray.com
++.orayimg.com
++.sandai.net
++.n0808.com
+*.mcdn.bilivideo.cn
++.cmbchina.com
++.cmbimg.com
++.market.xiaomi.com
++.uu.163.com
+
 # 注：已从 qichiyu 列表中砍掉向日葵、迅雷、DDNS、各品牌路由器等冗余暴露面。
 # STUN/WebRTC 也没有放入此名单，确保它们会被路由匹配到 REJECT-DROP 彻底锁死！
