@@ -32,7 +32,7 @@ localhost.sec.qq.com
 localhost.work.weixin.qq.com
 +.steamcontent.com
 
-# ---- Apple 基础更新服务 (摘自 qichiyu，防 macOS/iOS 升级阻断) ----
+# ---- Apple 基础更新服务 (防 macOS/iOS 升级阻断) ----
 mesu.apple.com
 swscan.apple.com
 swquery.apple.com

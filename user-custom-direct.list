@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,obsidian.md
 
 # ---- Apple CDN 与服务 ----
 DOMAIN-SUFFIX,a1.mzstatic.com
@@ -231,46 +232,17 @@ DOMAIN-SUFFIX,xiaomi.com
 
 # ---- 工具与杂项 ----
 DOMAIN-SUFFIX,api.cloudmobi.net
-DOMAIN-SUFFIX,cpanel.com
-DOMAIN-SUFFIX,cpanel.net
 DOMAIN-SUFFIX,cubox.pro
-DOMAIN-SUFFIX,deloitte.com
-DOMAIN-SUFFIX,dictionary.com
-DOMAIN-SUFFIX,domainmarket.com
-DOMAIN-SUFFIX,dreamstime.com
 DOMAIN-SUFFIX,fucheers.top
 DOMAIN-SUFFIX,h5.udrig.com
-DOMAIN-SUFFIX,hugedomains.com
-DOMAIN-SUFFIX,ibm.com
-DOMAIN-SUFFIX,ikea.com
-DOMAIN-SUFFIX,imageshack.com
-DOMAIN-SUFFIX,imageshack.us
-DOMAIN-SUFFIX,linktr.ee
-DOMAIN-SUFFIX,list-manage.com
-DOMAIN-SUFFIX,mediafire.com
-DOMAIN-SUFFIX,merriam-webster.com
-DOMAIN-SUFFIX,mystrikingly.com
-DOMAIN-SUFFIX,nasa.gov
-DOMAIN-SUFFIX,nationalgeographic.com
-DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,ntalker.com
-DOMAIN-SUFFIX,obsidian.md
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oraycloud.com
-DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pgyvideo.com
-DOMAIN-SUFFIX,photobucket.com
-DOMAIN-SUFFIX,php.net
-DOMAIN-SUFFIX,pixabay.com
 DOMAIN-SUFFIX,pixpin.cn
 DOMAIN-SUFFIX,portal.linkbroad.com
 DOMAIN-SUFFIX,px.effirst.com
 DOMAIN-SUFFIX,rumt-zh.com
-DOMAIN-SUFFIX,sky.com
-DOMAIN-SUFFIX,stores.jp
 DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-SUFFIX,talkingdata.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,webmd.com
-DOMAIN-SUFFIX,widen.net
 DOMAIN-SUFFIX,chillyroom.com
