@@ -53,5 +53,28 @@ swdist.apple.com
 +.market.xiaomi.com
 +.uu.163.com
 
-# 注：已从 qichiyu 列表中砍掉向日葵、迅雷、DDNS、各品牌路由器等冗余暴露面。
-# STUN/WebRTC 也没有放入此名单，确保它们会被路由匹配到 REJECT-DROP 彻底锁死！
+# ---- 国内流媒体与音乐 (网易云、QQ、咪咕等，防直连 CDN 跨网或版权受限) ----
++.music.163.com
++.126.net
++.y.qq.com
++.music.tc.qq.com
++.stream.qqmusic.qq.com
+songsearch.kugou.com
+trackercdn.kugou.com
++.kuwo.cn
++.music.migu.cn
+musicapi.taihe.com
+music.taihe.com
+
+# ---- 国内游戏与语音 (防语音掉线及游戏 CDN 获取错误) ----
++.ff14.sdo.com
+ff.dorado.sdo.com
++.battlenet.com.cn
++.wotgame.cn
++.wggames.cn
++.wowsgame.cn
++.gcloudcs.com
++.gcloudsdk.com
+
+# 注：此名单已为您深度定制，剔除了可能含有海外节点或引人注目的 DDNS 等测漏风险。
+# 并且，绝不能将 STUN/WebRTC 放入此名单！只有让它们乖乖拿到 Fake-IP 才能被路由里的 REJECT-DROP 彻底锁死！
