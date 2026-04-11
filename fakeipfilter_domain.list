@@ -8,18 +8,10 @@
 +.local
 +.in-addr.arpa
 +.ip6.arpa
-# [补充] 局域网其他常见占位符与 RFC 标准保留域名
+# [补充] 局域网其他常见占位符
 +.localdomain
 +.localhost
 +.home.arpa
-+.home
-+.private
-+.corp
-+.internal
-+.direct
-+.test
-+.example
-+.invalid
 
 # ---- 基础时间同步 NTP (必须走真实 IP，否则证书验证报废) ----
 time.*.com
@@ -32,7 +24,6 @@ pool.ntp.org
 # ---- 系统网络连通性探测 (防系统报“无网络连接”) ----
 +.msftconnecttest.com
 +.msftncsi.com
-connectivitycheck.gstatic.com
 captive.apple.com
 
 # ---- 特殊本地验证与直连业务 (完全恢复您的原始定义) ----
