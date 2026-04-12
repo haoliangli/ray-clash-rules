@@ -390,6 +390,35 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,mendeley.com
 DOMAIN-SUFFIX,poe.com
 
+# ---- 工作流 / 开发 / 观测 ----
+DOMAIN-SUFFIX,calibermind.com
+DOMAIN-SUFFIX,company-target.com
+DOMAIN-SUFFIX,cr-relay.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,demandbase.com
+DOMAIN-SUFFIX,eclipsecontent.org
+DOMAIN-SUFFIX,ensighten.com
+DOMAIN-SUFFIX,factory.ai
+DOMAIN-SUFFIX,gist.build
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,influ2.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,marketo.net
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,transcend-cdn.com
+DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,vector.co
+DOMAIN-SUFFIX,workonafavicons.com
+DOMAIN-SUFFIX,yimg.jp
+DOMAIN-SUFFIX,zeroclick.ai
+
 # ---- 社交 / 媒体 / 杂项 ----
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,ampproject.org
