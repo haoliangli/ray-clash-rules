@@ -1,0 +1,10 @@
+# 用户自定义拦截规则 (User Custom Reject Rules)
+# 格式: classical text | behavior: classical
+# 用途: 强制阻断不希望访问的域名/IP（REJECT-DROP）
+# 维护: https://github.com/haoliangli/ray-clash-rules
+
+# ---- 手动封锁站点 ----
+DOMAIN-SUFFIX,updates.devmate.com
+DOMAIN-SUFFIX,sparkle.pdfexpert.com
+DOMAIN-SUFFIX,aodo365.com
+DOMAIN-SUFFIX,better365.cn
