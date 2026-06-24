@@ -4,7 +4,75 @@
 # 维护: https://github.com/haoliangli/ray-clash-rules
 
 # ---- 手动封锁站点 ----
-DOMAIN-SUFFIX,updates.devmate.com
-DOMAIN-SUFFIX,sparkle.pdfexpert.com
-DOMAIN-SUFFIX,aodo365.com
-DOMAIN-SUFFIX,better365.cn
+# DOMAIN-SUFFIX,updates.devmate.com
+# DOMAIN-SUFFIX,sparkle.pdfexpert.com
+# DOMAIN-SUFFIX,aodo365.com
+# DOMAIN-SUFFIX,better365.cn
+
+# ------------------------------------------------------------
+# 1. 强力关键词封锁（仅限极高确信度）
+# ------------------------------------------------------------
+DOMAIN-KEYWORD,bitcoin
+DOMAIN-KEYWORD,blockchain
+DOMAIN-KEYWORD,crypto
+DOMAIN-KEYWORD,cryptocurrency
+DOMAIN-KEYWORD,defi
+DOMAIN-KEYWORD,web3
+
+# ------------------------------------------------------------
+# 2. 主流交易所（全部封锁）
+# ------------------------------------------------------------
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,upbit.com
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,gemini.com
+
+# ------------------------------------------------------------
+# 3. 矿池（全部封锁）
+# ------------------------------------------------------------
+DOMAIN-SUFFIX,btc.com
+DOMAIN-SUFFIX,antpool.com
+DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,slushpool.com
+DOMAIN-SUFFIX,viabtc.com
+DOMAIN-SUFFIX,ethermine.org
+DOMAIN-SUFFIX,nanopool.org
+DOMAIN-SUFFIX,2miners.com
+DOMAIN-SUFFIX,hashnest.com
+
+# ------------------------------------------------------------
+# 4. 钱包 / 区块链基础设施 / 行情平台（全部封锁）
+# ------------------------------------------------------------
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,blockchain.info
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
