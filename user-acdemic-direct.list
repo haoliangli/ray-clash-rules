@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,dl.sciencesocieties.org
 DOMAIN-SUFFIX,dynamed.com
 DOMAIN-SUFFIX,ebscohost.com
 DOMAIN-SUFFIX,ecsdl.org
+DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,embase.com
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,ems-ph.org
@@ -92,6 +93,7 @@ DOMAIN-SUFFIX,kluwerarbitration.com
 DOMAIN-SUFFIX,link.gale.com
 DOMAIN-SUFFIX,lww.com
 DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,mendeley.com
 DOMAIN-SUFFIX,msp.org
 DOMAIN-SUFFIX,muse.jhu.edu
 DOMAIN-SUFFIX,nature.com
@@ -130,8 +132,10 @@ DOMAIN-SUFFIX,smf.emath.fr
 DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springeropen.com
 DOMAIN-SUFFIX,springernature.io
 DOMAIN-SUFFIX,sso.cas.org
+DOMAIN-SUFFIX,ssrn.com
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,taylorfrancis.com
 DOMAIN-SUFFIX,thieme-connect.com
