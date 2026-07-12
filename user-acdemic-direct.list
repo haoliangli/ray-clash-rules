@@ -6,6 +6,8 @@
 # 维护: https://github.com/haoliangli/ray-clash-rules
 
 # ---- 国外学术出版商关键词 (品牌名高度唯一，不会误伤) ----
+DOMAIN-KEYWORD,arxiv
+DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,wiley
 
 # ---- 国外学术数据库域名 ----
