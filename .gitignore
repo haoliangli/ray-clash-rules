@@ -1,0 +1,12 @@
+*
+
+!/.gitignore
+!/README.md
+!/fakeipfilter_domain.list
+!/user-acdemic-direct.list
+!/user-custom-direct.list
+!/user-custom-proxy.list
+!/user-custom-reject.list
+!/.github/
+!/.github/workflows/
+!/.github/workflows/secret-scan.yml
