@@ -78,3 +78,6 @@ ff.dorado.sdo.com
 
 # 注：此名单已为您深度定制，剔除了可能含有海外节点或引人注目的 DDNS 等测漏风险。
 # 并且，绝不能将 STUN/WebRTC 放入此名单！只有让它们乖乖拿到 Fake-IP 才能被路由里的 REJECT-DROP 彻底锁死！
+
+# ---- WiFi Calling ePDG/IMS (IPsec IKEv2 需要真实 IP 解析) ----
++.3gppnetwork.org
