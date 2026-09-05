@@ -389,6 +389,7 @@ DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,mendeley.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,zotero.org
 
 # ---- 工作流 / 开发 / 观测 ----
 DOMAIN-SUFFIX,calibermind.com
