@@ -364,9 +364,6 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,edgecastcdn.net
@@ -380,7 +377,6 @@ DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,workers.dev
 
 # ---- AI / 科研工具 ----
 DOMAIN-SUFFIX,adobe.com
@@ -461,6 +457,9 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,ba-jp-sdk.bluearchive.jp
 DOMAIN-SUFFIX,piston-data.mojang.com
 DOMAIN-SUFFIX,resources.download.minecraft.net
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,tailscale.com
 
 # ---- 域名关键字匹配 ----
 DOMAIN-KEYWORD,amazon
