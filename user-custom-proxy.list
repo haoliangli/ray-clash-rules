@@ -3,6 +3,10 @@
 # 用途: 强制走代理的域名/IP 白名单（海外服务、CDN、DNS 防泄漏等）
 # 维护: https://github.com/haoliangli/ray-clash-rules
 
+# ---- 学术库 API 与 CDN (防漏网之鱼兜底) ----
+DOMAIN-KEYWORD,arxiv
+DOMAIN,api.elsevier.com
+
 # ---- Google 生态 ----
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,ads.google.com

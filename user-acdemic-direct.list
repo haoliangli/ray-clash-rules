@@ -6,8 +6,7 @@
 # 维护: https://github.com/haoliangli/ray-clash-rules
 
 # ---- 国外学术出版商关键词 (品牌名高度唯一，不会误伤) ----
-DOMAIN-KEYWORD,arxiv
-DOMAIN-KEYWORD,elsevier
+# 注意：已移除 arxiv 和 elsevier，改为下方精细化后缀/域名匹配，以释放 API/CDN 走代理
 DOMAIN-KEYWORD,wiley
 
 # ---- 国外学术数据库域名 ----
@@ -58,6 +57,11 @@ DOMAIN-SUFFIX,ebscohost.com
 DOMAIN-SUFFIX,ecsdl.org
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,embase.com
+# --- Elsevier 核心直连 (保障校园网鉴权) ---
+DOMAIN,elsevier.com
+DOMAIN,www.elsevier.com
+DOMAIN,id.elsevier.com
+# --- Elsevier 结束 ---
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,ems-ph.org
 DOMAIN-SUFFIX,ems.press
