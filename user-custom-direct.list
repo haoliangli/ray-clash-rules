@@ -47,6 +47,13 @@ DOMAIN-SUFFIX,ieee-org.widen.net
 DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,isiknowledge.com
 DOMAIN-SUFFIX,iso.org
+# MathWorks MATLAB 校园授权与激活直连（出示大陆原生 IP 通过地理围栏校验）
+DOMAIN,licensing.mathworks.com
+DOMAIN,login.mathworks.com
+DOMAIN,matlab.mathworks.com
+DOMAIN,services.mathworks.com
+DOMAIN,signin.mathworks.com
+DOMAIN,udc-service.mathworks.com
 DOMAIN-SUFFIX,newisiknowledge.com
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,ox.ac.uk
